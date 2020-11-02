@@ -1,0 +1,21 @@
+h1{
+  color:purple;
+  text-decoration:underline;
+  text-align: center;
+}
+.indent{
+  text-indent: 10%;
+}
+.transform{
+  text-transform:capitalize;
+}
+
+.tr2{text-transform:uppercase;
+
+}
+.space{
+  word-spacing: 10px;
+}
+.letterspace{
+  letter-spacing:8px;
+}
